@@ -1,4 +1,5 @@
 <h1 align="center">⚡ Yo, I'm d3vniks ⚡</h1>
+<h1 align="center">Username : d3vnNiks</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/220505025?s=400&u=b0d23e41bcca28e1c416f4801fb7279ce97b83e8&v=4" width="200" style="border-radius: 50%;" alt="Avatar"/>
@@ -121,9 +122,9 @@ Hit me up on Telegram: [@d3vniks](https://t.me/d3vniks) — I’m friendly and a
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3vniks&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=d3vniks404&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3vniks&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3vniks404&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -144,6 +145,29 @@ Hit me up on Telegram: [@d3vniks](https://t.me/d3vniks) — I’m friendly and a
 
 ---
 
+### 🌐 Find Me Online
+
+| Platform      | Username          | Link                                     |
+|---------------|-------------------|------------------------------------------|
+| GitHub        | d3vNiks           | [github.com/d3vNiks](https://github.com/d3vNiks) |
+| Facebook      | d3vNiks           | [facebook.com/d3vNiks](https://facebook.com/d3vNiks) |
+| Twitter       | d3vNiks           | [twitter.com/d3vNiks](https://twitter.com/d3vNiks) |
+| X (formerly Twitter) | d3vNiks     | [x.com/d3vNiks](https://x.com/d3vNiks) |
+| Telegram      | d3vNiks           | [t.me/d3vNiks](https://t.me/d3vNiks) |
+| WhatsApp      | d3vNiks           | (Personal use - no public link)          |
+| Instagram     | d3vNiks           | [instagram.com/d3vNiks](https://instagram.com/d3vNiks) |
+| LinkedIn      | d3vNiks           | [linkedin.com/in/d3vNiks](https://linkedin.com/in/d3vNiks) |
+| Reddit        | d3vNiks           | [reddit.com/user/d3vNiks](https://reddit.com/user/d3vNiks) |
+| TikTok        | d3vNiks           | [tiktok.com/@d3vNiks](https://tiktok.com/@d3vNiks) |
+| Pinterest     | d3vNiks           | [pinterest.com/d3vNiks](https://pinterest.com/d3vNiks) |
+| Snapchat      | d3vNiks           | (No public profile link)                 |
+| Discord       | d3vNiks           | (Invite link available on request)       |
+| Twitch        | d3vNiks           | [twitch.tv/d3vNiks](https://twitch.tv/d3vNiks) |
+| Medium        | d3vNiks           | [medium.com/@d3vNiks](https://medium.com/@d3vNiks) |
+| YouTube       | d3vNiks           | [youtube.com/d3vNiks](https://youtube.com/d3vNiks) |
+
+---
+
 ### ⭐ Final Words
 
 Thanks for stopping by my profile! This is just the beginning — big things are coming. If you like what you see, please:
@@ -152,10 +176,15 @@ Thanks for stopping by my profile! This is just the beginning — big things are
 - 🔄 Follow me for updates  
 - 💬 Ping me if you want to collab or share ideas
 
-Together, we’ll explore the depths of hacking, programming, and automation, making cool stuff and learning tons along the way. Stay curious, stay humble, and keep coding!
+Together, we’ll explore the depths of hacking, programming, and tech wizardry.
 
 ---
 
-**Peace, love, and code —**  
-*d3vniks* ⚡
+**Keep hacking, keep learning — d3vniks**  
 
+
+
+#ON_MY_PAGE_YOU_WILL_GET_ALL_TOOLS_FOR_ONLY_EDUCATION_PURPOSE
+#ONLY_EDUCATION_PURPOSE
+#DONT_REPORT
+#UNFLAGGED
